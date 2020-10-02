@@ -1,6 +1,6 @@
 <img align="right" width="200px" src="https://media.giphy.com/media/l378eVk7KxCOuJfPO/giphy.gif"/>
 
-### <samp> Greetings my friend! <img src="https://media.giphy.com/media/3003MwjfivhWUU55XX/giphy.gif" width="100px"/></samp>
+### <samp> Greetings my friend! <img src="https://raw.githubusercontent.com/MarinaFX/MarinaFX/master/gifs/oie_2215623KLveOSaL.gif" width="100px"/></samp>
 
 ### <samp> My name is Marina De Pazzi </samp>
 I am a student of Systems of Information and 22 years old.
