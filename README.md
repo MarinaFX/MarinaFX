@@ -1,9 +1,9 @@
 <img align="right" width="200px" src="https://media.giphy.com/media/l378eVk7KxCOuJfPO/giphy.gif"/>
 
-### <samp> Greetings my friends! <img src="https://media.giphy.com/media/3003MwjfivhWUU55XX/giphy.gif" width="100px"/></samp>
+### <samp> Greetings my friend! <img src="https://media.giphy.com/media/3003MwjfivhWUU55XX/giphy.gif" width="100px"/></samp>
 
 ### <samp> My name is Marina De Pazzi </samp>
-I am student of Systems of Information and 22 years old.
+I am a student of Systems of Information and 22 years old.
 
 
 💻 - Currently working as Back-end Software Developer Intern at [*Ilegra*](https://github.com/ilegra/).
