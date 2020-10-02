@@ -5,11 +5,13 @@
 ### <samp> My name is Marina De Pazzi </samp>
 I am student of Systems of Information and 22 years old.
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarinaFX&show_icons=true&theme=buefy" alt="Mari Stats" width="40%" />](https://github.com/MarinaFX)
+
 
 💻 - Currently working as Back-end Software Developer Intern at [*Ilegra*](https://github.com/ilegra/).
 📜 - Learing about cloud technologies and DevOps's culture
 ⛴️  - Fun fact: _I have a thing for ferry boats_ and sometimes I stream games at [_Prolene_](https://twitch.tv/prolene).
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarinaFX&show_icons=true&theme=buefy" alt="Mari Stats" width="40%" />](https://github.com/MarinaFX)
 
 ### <samp> Languagues and Tools </samp>
 
@@ -22,4 +24,3 @@ I am student of Systems of Information and 22 years old.
 <img width="60px" src="https://raw.githubusercontent.com/MarinaFX/MarinaFX/master/svgs/004-docker.svg" alt="Docker" style="vertical-align:top; margin:4px"/>
 
 </p>
-
