@@ -12,7 +12,7 @@ I am a student of Systems of Information and 22 years old.
 
 ⛴️  - Fun fact: _I have a thing for ferry boats_ and sometimes I stream games at [_Prolene_](https://twitch.tv/prolene).
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarinaFX&show_icons=true&theme=buefy" alt="Mari Stats" width="40%" />](https://github.com/MarinaFX)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarinaFX&show_icons=true&theme=tokyonight" alt="Mari Stats" width="40%" />](https://github.com/MarinaFX)
 
 
 ### <samp> Languagues and Tools </samp>
