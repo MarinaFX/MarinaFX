@@ -5,8 +5,6 @@
 ### <samp> My name is Marina De Pazzi </samp>
 I am student of Systems of Information and 22 years old.
 
-
-
 💻 - Currently working as Back-end Software Developer Intern at [*Ilegra*](https://github.com/ilegra/).
 📜 - Learing about cloud technologies and DevOps's culture
 ⛴️  - Fun fact: _I have a thing for ferry boats_ and sometimes I stream games at [_Prolene_](https://twitch.tv/prolene).
