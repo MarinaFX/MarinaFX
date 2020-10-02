@@ -1,4 +1,4 @@
-<img align="right" width="200px" src="https://media.giphy.com/media/l378eVk7KxCOuJfPO/giphy.gif"/>
+<img align="right" width="200px" src="https://raw.githubusercontent.com/MarinaFX/MarinaFX/master/gifs/oie_2215623KLveOSaL.gif"/>
 
 ### <samp> Greetings my friend! <img src="https://media.giphy.com/media/3003MwjfivhWUU55XX/giphy.gif" width="100px"/></samp>
 
