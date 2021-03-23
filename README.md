@@ -6,11 +6,12 @@
 I am a student of Systems of Information and 22 years old.
 
 
-💻 - Currently working as Back-end Software Developer Intern at [*Ilegra*](https://github.com/ilegra/).
+💻 - Currently working as a Fellowship iOS Developer at [*Apple Developer Academy | PUCRS*](http://www.bepid.com.br/poa/).
 
-📜 - Learing about cloud technologies and DevOps's culture
+📜 - Learning about iOS, WatchOS, MacOS, tvOS development. 
+Some areas of interest include: Mobile development focused on iOS, entrepreneurship, neuroscience and neurosurgery as well as technology applied in medicine.
 
-⛴️  - Fun fact: _I have a thing for ferry boats_ and sometimes I stream games at [_Prolene_](https://twitch.tv/prolene).
+⛴️ - Fun fact: _I have a thing for ferry boats_ and sometimes I stream games at [_Twitch_](https://twitch.tv/prolene).
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarinaFX&show_icons=true&theme=tokyonight" alt="Mari Stats" width="40%" />](https://github.com/MarinaFX)
 
