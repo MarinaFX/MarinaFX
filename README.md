@@ -6,7 +6,7 @@
 I am a student of Systems of Information and 22 years old.
 
 
-💻 - Currently working as a Fellowship iOS Developer at [*Apple Developer Academy | PUCRS*](http://www.bepid.com.br/poa/).
+💻 - Currently working as a Fellowship iOS Developer
 
 📜 - Learning about iOS, WatchOS, MacOS, tvOS development. 
 Some areas of interest include: Mobile development focused on iOS, entrepreneurship, neuroscience and neurosurgery as well as technology applied in medicine.
